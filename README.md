@@ -357,3 +357,4 @@ vacations=# SELECT * FROM destinations;
   4 | Scotland         |           45 | f           | f             |            290
 (5 rows)
 ```
+### Completed W/ Joanna Vasquez
